@@ -67,7 +67,7 @@ openSidebar.addEventListener("click", () => {
 
 
 
-//Quote generators
+//Quote generator
 
 let urlQt = "https://go-quote.azurewebsites.net/";
 
